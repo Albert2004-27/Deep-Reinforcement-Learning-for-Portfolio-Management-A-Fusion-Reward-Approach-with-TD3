@@ -1,0 +1,23 @@
+=== STATISTICAL SIGNIFICANCE TESTS ===
+
+TD3 vs Equal Weight (Monthly Rebal):
+  Test: t-test
+  Test statistic: -0.0628
+  p-value: 0.9500
+  Significant at 5%: NO
+  Sample size: 630
+
+TD3 vs Minimum Variance:
+  Test: t-test
+  Test statistic: 0.6969
+  p-value: 0.4860
+  Significant at 5%: NO
+  Sample size: 630
+
+TD3 vs Momentum (W-L):
+  Test: t-test
+  Test statistic: 0.5382
+  p-value: 0.5905
+  Significant at 5%: NO
+  Sample size: 630
+

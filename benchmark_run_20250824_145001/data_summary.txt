@@ -1,0 +1,14 @@
+=== DATA OVERVIEW ===
+Time range: 2010-01-04 00:00:00 to 2024-12-31 00:00:00
+Number of stocks: 8
+Data length: 3774 trading days
+Stock symbols: ['AAPL', 'AMZN', 'GOOGL', 'META', 'MSFT', 'NFLX', 'NVDA', 'TSLA']
+
+=== FIRST 5 ROWS ===
+                AAPL    AMZN      GOOGL  META       MSFT      NFLX      NVDA  TSLA
+Date                                                                              
+2010-01-04  6.431899  6.6950  15.590930   NaN  23.211435  7.640000  0.423854   NaN
+2010-01-05  6.443016  6.7345  15.522273   NaN  23.218941  7.358571  0.430044   NaN
+2010-01-06  6.340531  6.6125  15.130977   NaN  23.076452  7.617143  0.432794   NaN
+2010-01-07  6.328809  6.5000  14.778734   NaN  22.836454  7.485714  0.424313   NaN
+2010-01-08  6.370885  6.6760  14.975753   NaN  22.993944  7.614286  0.425230   NaN
